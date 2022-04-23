@@ -28,24 +28,24 @@ This app is a clone of an older version of the Netflix app on the Apple app stor
 
 **Required Must-have Stories**
 
-* See a random movie as the header when opening the app
-* Vertically scroll down and view trending movies, TV shows, popular, upcoming, and top rated movies
-* Horizontally scroll in each category of movies or TV shows
-* See upcoming movies that will be released soon
-* Search up movies using a search function
-* Download movies that they wish to view later after a long-hold on a movie on the home page
-* View movies the user has previously downloaded onto their local device
-* Delete previously downloaded movies
-* Tap onto movies and view the movie details page which includes a YouTube trailer of the movie, the movie title, and the overview
-* Watch the YouTube trailer of the movie straight from our app
+- [x] See a random movie as the header when opening the app
+- [x] Vertically scroll down and view trending movies, TV shows, popular, upcoming, and top rated movies
+- [x] Horizontally scroll in each category of movies or TV shows
+- [x] See upcoming movies that will be released soon
+- [x] Search up movies using a search function
+- [x] Download movies that they wish to view later after a long-hold on a movie on the home page
+- [x] View movies the user has previously downloaded onto their local device
+- [x] Delete previously downloaded movies
+- [x] Tap onto movies and view the movie details page which includes a YouTube trailer of the movie, the movie title, and the overview
+- [x] Watch the YouTube trailer of the movie straight from our app
 
 **Optional Nice-to-have Stories**
 
-* The ability to register for an account and sign-in to the app
-* Store user preferences in the user's profile settings
-* Be able to see a user's profile page
-* Be able to download movies from the upcoming movies and movie details page
-* Be able to see the movie details pages of searched up movies
+- [ ] The ability to register for an account and sign-in to the app
+- [ ] Store user preferences in the user's profile settings
+- [ ] Be able to see a user's profile page
+- [ ] Be able to download movies from the upcoming movies and movie details page
+- [ ] Be able to see the movie details pages of searched up movies
 
 ### 2. Screen Archetypes
 
